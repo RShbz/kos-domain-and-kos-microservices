@@ -27,7 +27,7 @@ public class UserRepositorySpringDataMongoAdapter implements BookRepository{
 
 	@Override
 	public boolean exists(Isbn isbn) {
-		// TODO Auto-generated method stub
+		//bookDocument.x;
 		return false;
 	}
 
